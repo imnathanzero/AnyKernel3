@@ -11,9 +11,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX2185
-device.name2=RMX2180
-device.name2=Nightmare
+device.name1=RMX1941
+device.name2=RMX1945
 supported.versions=
 supported.patchlevels=
 '; } # end properties
